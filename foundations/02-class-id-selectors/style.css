@@ -1,0 +1,19 @@
+* {
+    font-family: sans-serif;
+}
+.cool {
+    background-color: rgb(249, 148, 148);
+    font-size: larger;
+}
+.cool.cooler {
+    font-size: xx-large;
+}
+#num2 {
+    color: blue;
+    font-size: 40px;
+}
+#num4 {
+    font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(81, 251, 103);
+}
