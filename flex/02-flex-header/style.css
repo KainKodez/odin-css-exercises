@@ -2,8 +2,9 @@
   font-family: monospace;
   background: papayawhip;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   flex-grow: 0 1 auto;
+  padding: 5px;
 }
 
 .logo {
